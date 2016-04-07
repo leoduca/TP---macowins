@@ -1,6 +1,8 @@
 package domain;
 import java.time.LocalDate;
 
+import prendas.Prenda;
+
 public class Venta {
 	
 	private Prenda prenda;
@@ -10,9 +12,7 @@ public class Venta {
 	/* Constructor */
 	public Venta(Prenda prenda, int cantidad)
 	{
-		this.prenda = prenda;
-		this.cantidad = cantidad;
-		this.fecha = LocalDate.now();
+		this(prenda, cantidad, LocalDate.now());
 	}
 	
 	public Venta(Prenda prenda, int cantidad, LocalDate fecha)

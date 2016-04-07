@@ -1,0 +1,11 @@
+package domain;
+
+public class Sarkany implements IMarca {
+
+	@Override
+	public double aplicarCoeficienteDeMarca(double importe) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

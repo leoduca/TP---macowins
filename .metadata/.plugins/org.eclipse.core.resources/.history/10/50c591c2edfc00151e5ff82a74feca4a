@@ -1,0 +1,21 @@
+package domain;
+
+public abstract class Prenda {
+	
+	private int VALOR_FIJO;
+	private IOrigen origen;
+	
+	public Prenda(IOrigen origen){
+		this.VALOR_FIJO = 100;
+		this.origen = origen;	
+	}
+	
+	
+	public double precioFinal() {
+		return origen.aplicarTasaDeImportacion(this.VALOR_FIJO + this.precioBase());
+	}
+	
+	
+	public abstract int precioBase();
+
+}

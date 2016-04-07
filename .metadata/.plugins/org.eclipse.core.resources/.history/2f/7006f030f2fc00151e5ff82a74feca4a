@@ -1,0 +1,12 @@
+package domain;
+
+public class Nacional implements IOrigen{
+
+	public Nacional(){}
+	
+	@Override
+	public double aplicarTasaDeImportacion(double importe) {
+		return 1 * importe;
+	}
+
+}

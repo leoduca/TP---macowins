@@ -1,0 +1,25 @@
+2016-04-07 11:27:32,359 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2016-04-07 11:27:32,971 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2016-04-07 11:27:33,540 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2016-04-07 11:27:34,517 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2016-04-07 11:27:35,667 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2016-04-07 11:27:36,238 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2016-04-07 11:27:40,224 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2016-04-07 11:27:40,802 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2016-04-07 11:27:41,374 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2016-04-07 11:27:41,410 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Macowins:Macowins:1 @ /home/deb/git/TP---macowins/Macowins/pom.xml.
+2016-04-07 11:27:42,094 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2016-04-07 11:27:42,972 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2016-04-07 15:02:55,950 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Macowins:Macowins:1 @ /home/deb/git/TP---macowins/Macowins/pom.xml.
+2016-04-07 15:10:41,760 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Macowins:Macowins:1 @ /home/deb/git/TP---macowins/Macowins/pom.xml.
+2016-04-07 16:29:16,042 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/deb/git/TP---macowins/Macowins
+2016-04-07 16:29:16,043 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-07 16:29:40,661 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-07 16:29:42,224 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/deb/git/TP---macowins/Macowins
+2016-04-07 16:29:42,226 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2016-04-07 16:29:56,201 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/deb/git/TP---macowins/Macowins
+2016-04-07 16:29:56,201 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-04-07 16:33:06,065 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/deb/git/TP---macowins/Macowins
+2016-04-07 16:33:06,065 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B generate-sources
+2016-04-07 16:33:23,476 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/deb/git/TP---macowins/Macowins
+2016-04-07 16:33:23,478 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install

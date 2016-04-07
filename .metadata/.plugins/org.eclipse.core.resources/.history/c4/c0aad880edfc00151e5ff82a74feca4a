@@ -1,0 +1,12 @@
+package domain;
+
+public class Internacional implements IOrigen {
+
+	public Internacional(){}
+	
+	@Override
+	public double aplicarTasaDeImportacion(double importe) {
+		return 1.3;
+	}
+
+}

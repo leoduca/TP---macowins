@@ -1,0 +1,12 @@
+package domain;
+
+public class Armani implements IMarca {
+
+	public Armani(){}
+	
+	@Override
+	public double aplicarCoeficienteDeMarca(double importe) {
+		return importe * ;
+	}
+
+}

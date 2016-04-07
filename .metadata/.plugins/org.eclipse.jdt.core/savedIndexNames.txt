@@ -1,0 +1,18 @@
+INDEX VERSION 1.127+/home/deb/git/TP---macowins/.metadata/.plugins/org.eclipse.jdt.core
+2451978064.index
+3820288776.index
+847665916.index
+496264343.index
+2614517673.index
+4156480910.index
+3378799413.index
+3210947215.index
+1862631800.index
+1265219860.index
+1967241653.index
+2087101951.index
+682252195.index
+3643437829.index
+59673120.index
+3455373097.index
+1499338571.index

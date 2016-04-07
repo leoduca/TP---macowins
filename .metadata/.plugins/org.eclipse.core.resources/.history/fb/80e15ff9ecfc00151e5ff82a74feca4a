@@ -1,0 +1,10 @@
+package domain;
+
+public class Origenes implements IOrigen{
+
+	@Override
+	public double getTasaImportacion() {
+		return 1;
+	}
+
+}

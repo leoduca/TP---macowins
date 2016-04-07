@@ -1,0 +1,11 @@
+package domain;
+
+public class Internacional implements IOrigen {
+
+	@Override
+	public double getTasaImportacion() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

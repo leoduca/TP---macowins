@@ -1,0 +1,9 @@
+package domain;
+
+public class Origen {
+
+	public Origen(Origenes nacionalidad){
+				
+	}
+}
+

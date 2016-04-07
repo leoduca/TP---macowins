@@ -1,0 +1,12 @@
+package domain;
+
+public class Sarkany implements IMarca {
+
+	public Sarkany(){}
+	
+	@Override
+	public double aplicarCoeficienteDeMarca(double importe) {
+		return importe * (importe > 500 ? 1.35 : 1.1);
+	}
+
+}

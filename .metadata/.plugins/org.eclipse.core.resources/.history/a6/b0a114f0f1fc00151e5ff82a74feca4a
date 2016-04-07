@@ -1,0 +1,16 @@
+package domain;
+
+public class Sombrero extends Prenda {
+
+	public Sombrero(IOrigen origen, IMarca marca) {
+		super(origen, marca);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public double precioBase() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
